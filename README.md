@@ -1,7 +1,7 @@
 dump_jeff.py
 ========
 
-This script allows you to dump and the JEFF files used by Intel ME's DAL (Dynamic Application Loader).
+This script allows you to dump the JEFF files used by Intel ME's DAL (Dynamic Application Loader).
 It supports the following input formats:
   - raw JEFF file ('JEFF signature')
   - JEFF packaged as an ME applet with signed manifest header ($MN2 magic) (currently ME 8-9.5 only)
